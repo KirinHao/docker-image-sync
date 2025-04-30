@@ -4,4 +4,4 @@ mysql
 jupyter/datascience-notebook
 lobehub/lobe-chat
 hello-world
-lanol/filecodebox
+lanol/filecodebox:beta
